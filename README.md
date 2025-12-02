@@ -6,3 +6,4 @@
 - Include an intersting sound effect for every click
 - The game sound becomes more exciting when you win
 - Your winnings will be highlighted with a line
+- It offers a real-life gaming experience
