@@ -1,0 +1,144 @@
+:root{
+    --colortext: #ccc9dc;
+    --paragrraphselaction:  rgb(0, 128, 0);
+    --borderColor: rgb(0, 139, 139);
+    --backgroundImageCenterColor: rgba(63, 251, 235, 1);
+    --backgroundImageOutsideColor: rgba(153, 255, 189, 1);
+    --textGradientFirstColor: rgba(42, 123, 155, 1);
+    --textGradientSecondColor: rgba(65, 161, 144, 1);
+    --textGradientThirdColor: rgba(87, 199, 133, 1);
+    --textGradientForthColor: rgba(56, 240, 0, 1);
+}
+/* PARAGRRAPH SELACTION */
+
+
+::selection {
+    background-color: var(--paragrraphselaction);
+    color: var(--colortext);
+    text-shadow: none;
+}
+
+
+
+
+body{
+    background-image:  radial-gradient(circle, var(--backgroundImageCenterColor) 0%, var(--backgroundImageOutsideColor) 100%);
+    text-align: center;
+}
+
+.text-gradient{
+    background: linear-gradient(90deg, var(--textGradientFirstColor) 35%, var(--textGradientSecondColor) 50%, var(--textGradientThirdColor) 75%, var(--textGradientForthColor) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.text-gradient1{
+    background: linear-gradient(90deg, var(--textGradientThirdColor) 35%, var(--textGradientSecondColor) 50%, var(--textGradientFirstColor) 75%, var(--textGradientForthColor) 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+h1{
+    font-size: 4vmin;
+    cursor: pointer;
+}
+
+.mainBoard{
+    height: 4vmin;
+    width: 50vmin;
+    font-size: 3vmin;
+    border: 3px solid var(--borderColor);
+    border-radius: 1.33vmin; 
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.playerTurn{
+    height: 100%;
+    width: 100%;
+    font-size: 3vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: not-allowed;
+}
+
+.container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game{
+    height: 70vmin;
+    width: 70vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+    gap: 1.33vmin;
+    position: relative;
+}
+
+.win-line{
+    height: 0;
+    width: 0;
+    border: 0px solid var(--borderColor);
+    position: absolute;
+    transition: width 1s ease-in-out;
+}
+
+.box{
+    height: 22vmin;
+    width: 22vmin;
+    font-size: 20vmin;
+    border: 3px solid var(--borderColor);
+    border-radius: 1.33vmin;  
+    cursor: pointer; 
+}
+
+#reset-button{
+    font-size: 3vmin;
+    border: 3px solid var(--borderColor);
+    border-radius: 1.33vmin;   
+    cursor: pointer;
+}
+
+#border-left-top{ 
+    border-left: 0px;
+    border-top: 0px;
+    border-radius: 0 0 1.33vmin 0;
+}
+#border-top{
+    border-top: 0px;
+    border-radius: 0 0 1.33vmin 1.33vmin;
+}
+#border-top-right{
+    border-top: 0px;
+    border-right: 0px;
+    border-radius: 0 0 0 1.33vmin;
+}
+#border-right{
+    border-right: 0px;
+    border-radius: 1.33vmin 0 0 1.33vmin;
+}
+#border-right-bottom{
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 1.33vmin 0 0 0;
+}
+#border-bottom{
+    border-bottom: 0px;
+    border-radius: 1.33vmin 1.33vmin 0 0;
+}
+#border-bottom-left{
+    border-bottom: 0px;
+    border-left: 0px;
+    border-radius: 0 1.33vmin 0 0;
+}
+#border-left{
+    border-left: 0px;
+    border-radius: 0 1.33vmin 1.33vmin 0;
+}

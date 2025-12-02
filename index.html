@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/won.css">
+    <link rel="stylesheet" href="/draw.css">
+    <link rel="stylesheet" href="/reloadAnimation.css">
+  </head>
+  <body>
+        <div class="reloadAnimationTransparent">
+          <div class="reloadAnimationBack">
+            <div class="reloadAnimation">
+              <span>Play With Tic Tac Toe</span>
+            </div>
+          </div>
+        </div>
+        <main>
+            <h1 class="text-gradient" id="fullWebsiteReload">Tic Tac Toe</h1>
+            <div class="mainBoard">
+              <div class="playerTurn text-gradient">
+                
+              </div>
+            </div>
+            <div class="container">
+                <div class="game">
+                    <button class="box text-gradient" id="border-left-top"></button>
+                    <button class="box text-gradient" id="border-top"></button>
+                    <button class="box text-gradient" id="border-top-right"></button>
+                    <button class="box text-gradient" id="border-left"></button>
+                    <button class="box text-gradient"></button>
+                    <button class="box text-gradient" id="border-right"></button>
+                    <button class="box text-gradient" id="border-bottom-left"></button>
+                    <button class="box text-gradient" id="border-bottom"></button>
+                    <button class="box text-gradient" id="border-right-bottom"></button>
+                    <div class="win-line"></div>
+                </div>
+            </div>
+            <button id="reset-button" class="text-gradient">Reset Game</button>
+        </main>
+        <section id="main-win">
+          <div id="win"> <!-- WIN_POPUP -->
+            <div>
+              <span id="winTitle"></span>
+              <button id="stg1">Start Game</button>
+            </div>
+          </div>
+        </section>
+        <section id="main-draw">
+          <div id="draw"> <!-- WIN_POPUP -->
+            <div>
+              <span id="drawTitle"></span>
+              <button id="stg2">Start Game</button>
+            </div>
+          </div>
+        </section>
+        <script src="/script.js"></script>
+  </body>
+</html>
