@@ -1,4 +1,4 @@
-# It's a web-based Tic Tac Toe game.
+# It's a web(JS)-based Tic Tac Toe game.
 ## Introduce New Features
 - You can see whether you won or lost the game
 - You’ll be informed in advance, including whose turn it is
