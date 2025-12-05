@@ -12,6 +12,7 @@
 
 /* PARAGRRAPH SELACTION */
 
+
 ::selection {
     background-color: var(--paragrraphselaction);
     color: var(--colortext);
