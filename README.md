@@ -10,18 +10,12 @@
   <a href="https://mozilla.org" style="text-decoration: none;"><img src="https://shields.io" alt="CSS3"></a>
   <a href="https://mozilla.org" style="text-decoration: none;"><img src="https://shields.io" alt="JavaScript"></a>
   <a href="LICENSE" style="text-decoration: none;"><img src="https://shields.io" alt="License: MIT"></a>
-
-  <br>
-
-  <!--GitHubStatsBadges(Row2)-->
+  <br><!--GitHubStatsBadges(Row2)-->
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Stars"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Forks"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Issues"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Last Commit"></a>
-
-  <br>
-
-  <!--ViewsCounter(Row3)-->
+  <br><!--ViewsCounter(Row3)-->
   <img src="https://komarev.com" alt="Views">
 
   <p>No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.</p>
