@@ -17,7 +17,7 @@
 
   No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.
 
-  **[🌐 Live Demo](https://maheercodes.github.io/Tic-Tac-Toe/)** · **[🐛 Report Bug](https://github.com/maheerCodes/Tic-Tac-Toe/issues)** · **[✨ Request Feature](https://github.com/maheerCodes/Tic-Tac-Toe/issues)**
+  **[🌐 Live Demo](https://unique-tic-tac-toe.netlify.app/)** · **[🐛 Report Bug](https://github.com/maheerCodes/Tic-Tac-Toe/issues)** · **[✨ Request Feature](https://github.com/maheerCodes/Tic-Tac-Toe/issues)**
 </div>
 
 <br>
@@ -46,8 +46,8 @@
 
 ## ✨ Features
 
-| | |
-|---|---|
+| Icon | Description |
+| :---: | :--- |
 | 🎲 | **Random starting player** — X or O is randomly chosen at the start of every game |
 | 🧠 | **Smart win detection** across all 8 winning patterns (rows, columns, diagonals) |
 | 📏 | **Animated win-line** that draws itself across the winning combination |
@@ -79,17 +79,17 @@
 
 ```text
 Tic-Tac-Toe/
-├── index.html                               # Main markup & game board
-├── style.css                                # Core layout, board, gradient text, buttons
-├── won.css                                  # "Win" popup styling
-├── draw.css                                 # "Draw" popup styling
-├── reloadAnimation.css                      # Full-page reload transition animation
-├── script.js                                # Game logic (moves, win/draw detection, reset)
-├── clickSound.mp3                           # Sound played on each box click
-├── gameOverSound.mp3                        # Sound played on win/draw
-├── Image.png                                # Preview image
-├── LICENSE                                  # MIT License
-└── wmremove-transformed-removebg-preview.svg # Favicon / logo
+├── index.html                                   # Main markup & game board
+├── style.css                                    # Core layout, board, gradient text, buttons
+├── won.css                                      # "Win" popup styling
+├── draw.css                                     # "Draw" popup styling
+├── reloadAnimation.css                          # Full-page reload transition animation
+├── script.js                                    # Game logic (moves, win/draw detection, reset)
+├── clickSound.mp3                               # Sound played on each box click
+├── gameOverSound.mp3                            # Sound played on win/draw
+├── Image.png                                    # Preview image
+├── LICENSE                                      # MIT License
+└── wmremove-transformed-removebg-preview.svg    # Favicon / logo
 ```
 
 ## 🚀 Getting Started
@@ -98,21 +98,21 @@ No build tools or dependencies required.
 
 ### 1. Clone the repository
 
-
 ```bash
-git clone https://github.com/maheerCodes/Tic-Tac-Toe.git
+git clone https://github.com
 cd Tic-Tac-Toe
 ```
 
-**2. Open it in your browser**
+### 2. Open it in your browser
 
-Simply double-click `index.html`, **or** serve it locally for the best experience (recommended, since some browsers restrict audio on `file://` paths):
+Simply double-click `index.html`, or serve it locally for the best experience (recommended, since some browsers restrict audio on `file://` paths):
 
 ```bash
 npx serve .
 ```
 
 or use the **Live Server** extension in VS Code.
+
 
 ## 🕹️ How to Play
 
@@ -202,9 +202,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Maheer**
+**Sheikh Mohammad Ali Maheer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-maheerCodes-181717?style=for-the-badge&logo=github)](https://github.com/maheerCodes)
+[![GitHub](https://shields.io)](https://github.com/maheerCodes)
 
 <div align="center">
   <br>
