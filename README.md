@@ -1,24 +1,31 @@
 <div align="center">
   <img src="./wmremove-transformed-removebg-preview.svg" alt="logo" width="70">
 
-  # Tic Tac Toe
+  <h1>Tic Tac Toe</h1>
 
-  ### A sleek, animated 2-Player Tic Tac Toe game — pure HTML, CSS & JavaScript
+  <h3>A sleek, animated 2-Player Tic Tac Toe game — pure HTML, CSS & JavaScript</h3>
 
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+  <!--BadgesGrid-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="LICENSE" style="text-decoration: none;"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
 
-  [![Stars](https://img.shields.io/github/stars/maheerCodes/Tic-Tac-Toe?style=flat-square&color=gold)](https://github.com/maheerCodes/Tic-Tac-Toe/stargazers)
-  [![Forks](https://img.shields.io/github/forks/maheerCodes/Tic-Tac-Toe?style=flat-square&color=blue)](https://github.com/maheerCodes/Tic-Tac-Toe/network/members)
-  [![Issues](https://img.shields.io/github/issues/maheerCodes/Tic-Tac-Toe?style=flat-square&color=red)](https://github.com/maheerCodes/Tic-Tac-Toe/issues)
-  [![Last Commit](https://img.shields.io/github/last-commit/maheerCodes/Tic-Tac-Toe?style=flat-square&color=green)](https://github.com/maheerCodes/Tic-Tac-Toe/commits/main)
+  <br>
 
-  No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.
+  <a href="https://github.com/maheerCodes/Tic-Tac-Toe/stargazers" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/maheerCodes/Tic-Tac-Toe?style=flat-square&color=gold" alt="Stars"></a>
+  <a href="https://github.com/maheerCodes/Tic-Tac-Toe/network/members" style="text-decoration: none;"><img src="https://img.shields.io/github/forks/maheerCodes/Tic-Tac-Toe?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/maheerCodes/Tic-Tac-Toe/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/Tic-Tac-Toe?style=flat-square&color=red" alt="Issues"></a>
+  <a href="https://github.com/maheerCodes/Tic-Tac-Toe/commits/main" style="text-decoration: none;"><img src="https://img.shields.io/github/last-commit/maheerCodes/Tic-Tac-Toe?style=flat-square&color=green" alt="Last Commit"></a>
 
-  **[🌐 Live Demo](https://unique-tic-tac-toe.netlify.app/)** · **[🐛 Report Bug](https://github.com/maheerCodes/Tic-Tac-Toe/issues)** · **[✨ Request Feature](https://github.com/maheerCodes/Tic-Tac-Toe/issues)**
+  <p>No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.</p>
+
+  <!--NavigationLinks-->
+  <b><a href="https://unique-tic-tac-toe.netlify.app/" style="text-decoration: none;">🌐 Live Demo</a></b> · 
+  <b><a href="https://github.com/maheerCodes/Tic-Tac-Toe/issues" style="text-decoration: none;">🐛 Report Bug</a></b> · 
+  <b><a href="https://github.com/maheerCodes/Tic-Tac-Toe/issues" style="text-decoration: none;">✨ Request Feature</a></b>
 </div>
+
 
 <br>
 
@@ -30,19 +37,21 @@
 
 ## 📑 Table of Contents
 
-- [Features](#-features)
-- [Tech Stack](#️-tech-stack)
-- [Browser Support](#-browser-support)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [How to Play](#️-how-to-play)
-- [How It Works](#️-how-it-works-code-overview)
-- [Customization](#-customization)
-- [FAQ](#-faq)
-- [Roadmap](#️-roadmap--future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+<ul>
+  <li><a href="#-features" style="text-decoration: none;">Features</a></li>
+  <li><a href="#️-tech-stack" style="text-decoration: none;">Tech Stack</a></li>
+  <li><a href="#-browser-support" style="text-decoration: none;">Browser Support</a></li>
+  <li><a href="#-project-structure" style="text-decoration: none;">Project Structure</a></li>
+  <li><a href="#-getting-started" style="text-decoration: none;">Getting Started</a></li>
+  <li><a href="#️-how-to-play" style="text-decoration: none;">How to Play</a></li>
+  <li><a href="#️-how-it-works-code-overview" style="text-decoration: none;">How It Works</a></li>
+  <li><a href="#-customization" style="text-decoration: none;">Customization</a></li>
+  <li><a href="#-faq" style="text-decoration: none;">FAQ</a></li>
+  <li><a href="#️-roadmap--future-improvements" style="text-decoration: none;">Roadmap</a></li>
+  <li><a href="#-contributing" style="text-decoration: none;">Contributing</a></li>
+  <li><a href="#-license" style="text-decoration: none;">License</a></li>
+  <li><a href="#-author" style="text-decoration: none;">Author</a></li>
+</ul>
 
 ## ✨ Features
 
@@ -204,12 +213,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Sheikh Mohammad Ali Maheer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-maheerCodes-181717?style=for-the-badge&logo=github)](https://github.com/maheerCodes)
+<br>
+
+<!--GitHubBadgewithCaseSensitivity&NoUnderline-->
+<a href="https://github.com/maheerCodes" style="text-decoration: none;"><img src="https://shields.io" alt="GitHub"></a>
 
 <div align="center">
   <br>
 
-  ### ⭐ If you liked this project, consider giving it a star!
+  <h3>⭐ If you liked this project, consider giving it a star!</h3>
 
-  Made with ❤️ using HTML, CSS & JavaScript
-</div> 
+  <p>Made with ❤️ using HTML, CSS & JavaScript</p>
+</div>
