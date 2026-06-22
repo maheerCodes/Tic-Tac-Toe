@@ -204,7 +204,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Sheikh Mohammad Ali Maheer**
 
-[![GitHub](https://shields.io)](https://github.com/maheerCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-maheerCodes-181717?style=for-the-badge&logo=github)](https://github.com/maheerCodes)
 
 <div align="center">
   <br>
