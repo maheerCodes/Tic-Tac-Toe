@@ -206,7 +206,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 [![GitHub](https://shields.io)](https://github.com/maheerCodes)
 
-
 <div align="center">
   <br>
 
