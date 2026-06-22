@@ -37,20 +37,21 @@
 
 ## 📑 Table of Contents
 
-<a href="#-features"><img src="https://shields.io" alt="Features"></a> 
-<a href="#️-tech-stack"><img src="https://shields.io" alt="Tech Stack"></a> 
-<a href="#-browser-support"><img src="https://shields.io" alt="Browser Support"></a> 
-<a href="#-project-structure"><img src="https://shields.io" alt="Project Structure"></a> 
-<a href="#-getting-started"><img src="https://shields.io" alt="Getting Started"></a> 
-<a href="#️-how-to-play"><img src="https://shields.io" alt="How to Play"></a> 
-<a href="#️-how-it-works-code-overview"><img src="https://shields.io" alt="How It Works"></a> 
-<a href="#-customization"><img src="https://shields.io" alt="Customization"></a> 
-<a href="#-faq"><img src="https://shields.io" alt="FAQ"></a> 
-<a href="#️-roadmap--future-improvements"><img src="https://shields.io" alt="Roadmap"></a> 
-<a href="#-contributing"><img src="https://shields.io" alt="Contributing"></a> 
-<a href="#-license"><img src="https://shields.io" alt="License"></a> 
-<a href="#-author"><img src="https://shields.io" alt="Author"></a>
-
+<ul>
+  <li><a href="#-features" style="text-decoration: none;">Features</a></li>
+  <li><a href="#️-tech-stack" style="text-decoration: none;">Tech Stack</a></li>
+  <li><a href="#-browser-support" style="text-decoration: none;">Browser Support</a></li>
+  <li><a href="#-project-structure" style="text-decoration: none;">Project Structure</a></li>
+  <li><a href="#-getting-started" style="text-decoration: none;">Getting Started</a></li>
+  <li><a href="#️-how-to-play" style="text-decoration: none;">How to Play</a></li>
+  <li><a href="#️-how-it-works-code-overview" style="text-decoration: none;">How It Works</a></li>
+  <li><a href="#-customization" style="text-decoration: none;">Customization</a></li>
+  <li><a href="#-faq" style="text-decoration: none;">FAQ</a></li>
+  <li><a href="#️-roadmap--future-improvements" style="text-decoration: none;">Roadmap</a></li>
+  <li><a href="#-contributing" style="text-decoration: none;">Contributing</a></li>
+  <li><a href="#-license" style="text-decoration: none;">License</a></li>
+  <li><a href="#-author" style="text-decoration: none;">Author</a></li>
+</ul>
 
 ## ✨ Features
 
