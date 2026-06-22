@@ -215,8 +215,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br>
 
-<!--GitHubBadgewithCaseSensitivity&NoUnderline-->
-<a href="https://github.com/maheerCodes" style="text-decoration: none;"><img src="https://shields.io" alt="GitHub"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-maheerCodes-181717?style=for-the-badge&logo=github)](https://github.com/maheerCodes)
 
 <div align="center">
   <br>
