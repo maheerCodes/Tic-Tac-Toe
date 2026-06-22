@@ -1,31 +1,22 @@
 <div align="center">
   <img src="./wmremove-transformed-removebg-preview.svg" alt="logo" width="70">
-
   <h1>Tic Tac Toe</h1>
-
   <h3>A sleek, animated 2-Player Tic Tac Toe game — pure HTML, CSS & JavaScript</h3>
-
   <!--BadgesGrid(Row1)-->
   <a href="https://mozilla.org" style="text-decoration: none;"><img src="https://shields.io" alt="HTML5"></a>
   <a href="https://mozilla.org" style="text-decoration: none;"><img src="https://shields.io" alt="CSS3"></a>
   <a href="https://mozilla.org" style="text-decoration: none;"><img src="https://shields.io" alt="JavaScript"></a>
   <a href="LICENSE" style="text-decoration: none;"><img src="https://shields.io" alt="License: MIT"></a>
-  
-  <br><br>
-
+  <br>
   <!--GitHubStatsBadges(Row2)-->
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Stars"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Forks"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Issues"></a>
   <a href="https://github.com" style="text-decoration: none;"><img src="https://shields.io" alt="Last Commit"></a>
-  
-  <br><br>
-
+  <br>
   <!--ViewsCounter(Row 3)-->
-  <img src="https://seeyoufarm.com" alt="Views">
-
+  <img src="https://komarev.com" alt="Views">
   <p>No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.</p>
-
   <!--NavigationLinks-->
   <b><a href="https://netlify.app" style="text-decoration: none;">🌐 Live Demo</a></b> · 
   <b><a href="https://github.com" style="text-decoration: none;">🐛 Report Bug</a></b> · 
