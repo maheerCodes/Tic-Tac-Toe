@@ -13,7 +13,7 @@
   <a href="https://github.com/maheerCodes/Tic-Tac-Toe/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/Tic-Tac-Toe?style=flat-square&color=red" alt="Issues"></a>
   <a href="https://github.com/maheerCodes/Tic-Tac-Toe/commits/main" style="text-decoration: none;"><img src="https://img.shields.io/github/last-commit/maheerCodes/Tic-Tac-Toe?style=flat-square&color=green" alt="Last Commit"></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=maheerCodes&label=Profile%20views&color=0e75b6&style=flat" alt="Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maheerCodes.Tic-Tac-Toe" alt="Visitors">
 
   <p>No frameworks. No libraries. Just clean vanilla code, gradient text, glassmorphism popups, sound effects, and a custom full-page reload transition.</p>
 
